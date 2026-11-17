@@ -1,0 +1,15 @@
+# Saídas do PyInstaller e do Inno Setup (gerados por gerar_versao.ps1)
+build/
+dist/
+Output/
+*.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# Versão antiga do monitor (envio por e-mail) com e-mail e senha gravados no código: NÃO versionar
+cronometro_produtividade.py
+
+# Arquivo vazio de dados locais
+meu_dicionario.json
